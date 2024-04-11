@@ -1,0 +1,153 @@
+#navbar{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+#nav1{
+    display: flex;
+    gap: 80px;
+}
+#here{
+    border: solid;
+    border-radius: 20px;
+    padding: 20;
+    background-color: pink;
+    width: 120%;
+    border-style: hidden;
+}
+#sign{
+    display: flex;
+    gap: 90px;
+    margin-left: 200px;
+}
+#up{
+    border: solid;
+    border-radius: 20px;
+    padding: 20;
+    background-color: black;
+    border-style: hidden;
+    color: white;
+
+}
+#study{
+    font-size: 400%;
+}
+#want{
+    border: solid;
+    border-radius: 30px;
+    padding: 20px;
+    width: 50%;
+    
+}
+#learn{
+    display: flex;
+
+    margin-right: 700px;
+    ;
+
+    
+    
+}
+#letters{
+    display: flex;
+    margin-left: 300px;
+    gap: 200px;
+}
+#container{
+    border: solid;
+    background-color: blueviolet;
+    padding: 50px;
+    margin: 1%;
+}
+#main{
+    border: solid;
+    border-radius: 30px;
+    background-color: lightpink;
+    justify-content: center;
+    margin: 10%;
+}
+#student{
+    justify-content: center;
+    width: 50%;
+    height: 50%;
+}
+@media all and(min-width:280px)and(max-width:1024px) {
+    #navbar{
+        display: flex;
+        gap: 100px;
+        justify-content: center;
+    }
+    #nav1{
+        display: flex;
+        gap: 80px;
+    }
+    #here{
+        border: solid;
+        border-radius: 20px;
+        /* padding: 20; */
+        background-color: pink;
+        width: 120%;
+        border-style: hidden;
+    }
+    #sign{
+        display: flex;
+        gap: 90px;
+        /* margin-left: 200px; */
+    }
+    #up{
+        border: solid;
+        border-radius: 20px;
+        /* padding: 20; */
+        background-color: black;
+        border-style: hidden;
+        color: white;
+    
+    }
+    #study{
+        font-size: 400%;
+    }
+    #want{
+        border: solid;
+        border-radius: 30px;
+        /* padding: 20px; */
+        width: 50%;
+        
+    }
+    #learn{
+        display: flex;
+    
+        /* margin-right: 700px; */
+        
+    
+        
+        
+    }
+    #letters{
+        display: flex;
+        /* margin-left: 300px; */
+        gap: 200px;
+    }
+    #container{
+        border: solid;
+        background-color: blueviolet;
+        /* padding: 50px; */
+        /* margin: 1%; */
+    }
+    #main{
+        border: solid;
+        border-radius: 30px;
+        background-color: lightpink;
+        justify-content: center;
+        /* margin: 10%; */
+    }
+    #student{
+        justify-content: center;
+        width: 50%;
+        height: 50%;
+    }
+    
+}
+
+
+    
+
